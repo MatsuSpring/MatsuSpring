@@ -26,10 +26,10 @@
 
 <h3 align="left">SNS & Content:</h3>
 <p align="left">
-  <a href="https://x.com/__matsuSpring" target="blank"><img align="center"
+  <a href="https://x.com/__matsuSpring" target="_blank"><img align="center"
       src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"
       alt="adam pithewan" height="50" width="50" /></a>
-  <a href="https://qiita.com/MatsuSpring" target="blank"><img align="center"
+  <a href="https://qiita.com/MatsuSpring" target="_blank"><img align="center"
       src="./images/qiita-icon.png"
       alt="adam pithewan" height="35" width="35" /></a>
 </p>
