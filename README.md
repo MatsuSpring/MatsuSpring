@@ -37,6 +37,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">左から得意順</p>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
@@ -66,12 +67,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png"
       alt="gas" width="45" height="45" />
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="unity"
-      width="50" height="50" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/fastapi/fastapi/blob/287eb316df5b7c35dd1e5da27ca2a8d345bee8d1/docs/en/docs/img/favicon.png?raw=true"
+      alt="fastapi" width="45" height="45" />
   </a>
-  <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="c-sharp" width="50" height="50" />
+  <a href="https://caddyserver.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/caddyserver/website/blob/master/src/resources/images/favicon.png?raw=true"
+      alt="caddy" width="45" height="45" />
   </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7"
@@ -81,6 +83,23 @@
     <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
       alt="arduino" width="50" height="50" />
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="unity"
+      width="50" height="50" />
+  </a>
+  <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="c-sharp" width="50" height="50" />
+  </a>
+  <a href="https://www.java.com/ja/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="50" height="50" />
+  </a>
+  <a href="https://nodejs.org/ja/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="nodejs" width="50" height="50" />
+  </a>
+  <a href="https://ja.react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="react" width="50" height="50" />
+  </a>
+
 
 <br>
 
